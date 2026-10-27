@@ -12,17 +12,16 @@ Hi, I'm Mykyta
  
 ### About Me
  
-Low-level systems programmer with a focus on C/C++ and UNIX internals. Process management, concurrency, memory, and IPC.
- 
-Currently deepening my knowledge in **embedded systems**: microcontrollers, RTOS, and bare-metal programming. Hardware is already in hand and a first embedded project is in the works.
- 
-Interested in the intersection of software and hardware, and how systems behave under real-world constraints.
- 
+C++ developer focused on systems programming, low-level software, and UNIX internals. Interested in memory management, process control, concurrency, and inter-process communication.
+
+Currently deepening my knowledge of C++ and exploring how systems work under the hood, from memory and resource management to performance and operating system interfaces.
+
+Passionate about understanding software beyond the abstractions and building reliable, efficient systems.
 ---
  
 ### Currently Building
  
-> First embedded systems project — coming soon. Follow along here.
+> High Performance HTTP Server in C++98
  
 ---
  
@@ -62,6 +61,4 @@ Learning         Embedded Systems · RTOS · Bare-Metal Programming
 ---
  
 <div align="center">
-Open to opportunities in embedded systems and low-level software engineering.
- 
 </div>
