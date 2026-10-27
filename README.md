@@ -16,7 +16,6 @@ C++ developer focused on systems programming, low-level software, and UNIX inter
 
 Currently deepening my knowledge of C++ and exploring how systems work under the hood, from memory and resource management to performance and operating system interfaces.
 
-Passionate about understanding software beyond the abstractions and building reliable, efficient systems.
 ---
  
 ### Currently Building
