@@ -1,7 +1,7 @@
 <div align="center">
 Hi, I'm Mykyta
  
-**Low-Level Software Engineer | C / C++ | UNIX Systems | Embedded (in progress)**
+**Low-Level Software Engineer | C / C++ | UNIX Systems
  
 [![42](https://img.shields.io/badge/School-42-black?style=flat-square&logo=42)](https://42.fr)
 [![C](https://img.shields.io/badge/Language-C-blue?style=flat-square)](https://en.wikipedia.org/wiki/C_(programming_language))
